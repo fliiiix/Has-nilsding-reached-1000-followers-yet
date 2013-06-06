@@ -1,2 +1,2 @@
-Has-nilsding-reached-1000-followers-yet
-=======================================
+#NILSDING
+bundle exec bin/rackup config.ru -p 696969 -D
